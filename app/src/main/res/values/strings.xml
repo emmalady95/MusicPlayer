@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="title_activity_play_music">PlayMusicActivity</string>
+
+    <string name="tv_title">Show Title</string>
+    <string name="tv_artist">Show Artist</string>
+    <string name="icon_description">Play mp3</string>
+    <string name="play">Play music</string>
+    <string name="pause">Pause music</string>
+
+    <string name="cd_repeat">Repeat one or all</string>
+    <string name="cd_previous">Skip backwards</string>
+    <string name="cd_play">Play and pause</string>
+    <string name="cd_next">Skip forwards</string>
+
+</resources>
